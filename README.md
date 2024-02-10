@@ -7,7 +7,7 @@
 ### Cloning the repository
 
 ```shell
-git clone
+git clone https://github.com/HB1802/AI-platform.git
 ```
 
 ### Install packages
